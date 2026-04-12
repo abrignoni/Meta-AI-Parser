@@ -43,8 +43,7 @@ The plugin currently generates the following ALEAPP reports:
 4. **Paired Devices (Detailed)**
 5. **Linked Accounts**
 6. **AI Conversations (Cloud)**
-7. **Connected Devices (Cloud)**
-8. **Cloud Media Library**
+7. **Cloud Media Library**
 
 ---
 
